@@ -1,9 +1,10 @@
 ﻿
 using polymorephism;
 using classObjects;
-using encapsulations;
+using AccountA = encapsulations.Account;
 using inheritance;
 using abstraction;
+using oops_abstraction_encapsulation;
 namespace oops;
 
 class Program
@@ -18,7 +19,7 @@ class Program
 
         // Encapsulation
         System.Console.WriteLine("\nEncapsulation");
-        Account myAccount = new Account();
+        AccountA myAccount = new AccountA();
         myAccount.SetBalance(1000);
         double balance = myAccount.GetBalance();
         System.Console.WriteLine(balance);
@@ -55,8 +56,22 @@ class Program
         Bike vehicle1 = new Bike();
         vehicle1.Drive();
     }
+
+    public static void Abstration_Encapsulation()
+    {
+        Account account = new SavingAccount(); // abstraction in action
+
+        account.Deposit(1000);
+        account.Withdraw(300);
+
+        // account.balance;  ERROR
+
+        // must use GetBalance() (through encapsulation)
+        SavingAccount realAccount = (SavingAccount)account;
+        Console.WriteLine($"Current Balance : {realAccount.GetBalance()}");
+    }
     static void Main(string[] args)
     {
-        Oops();
+        // Oops();  
     }
 }
