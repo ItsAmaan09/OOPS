@@ -8,7 +8,7 @@ namespace oops;
 
 class Program
 {
-    static void Main(string[] args)
+    public static void Oops()
     {
         // Class & Objects
         System.Console.WriteLine("Classes & Objects");
@@ -53,6 +53,10 @@ class Program
         IVehicle vehicle = new Bike();
         vehicle.Drive();
         Bike vehicle1 = new Bike();
-        vehicle1.Drive(); 
+        vehicle1.Drive();
+    }
+    static void Main(string[] args)
+    {
+        Oops();
     }
 }
