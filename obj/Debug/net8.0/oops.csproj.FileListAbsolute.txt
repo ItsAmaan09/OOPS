@@ -1,0 +1,14 @@
+E:\Coding_Projects\c# programs\oops\bin\Debug\net8.0\oops.exe
+E:\Coding_Projects\c# programs\oops\bin\Debug\net8.0\oops.deps.json
+E:\Coding_Projects\c# programs\oops\bin\Debug\net8.0\oops.runtimeconfig.json
+E:\Coding_Projects\c# programs\oops\bin\Debug\net8.0\oops.dll
+E:\Coding_Projects\c# programs\oops\bin\Debug\net8.0\oops.pdb
+E:\Coding_Projects\c# programs\oops\obj\Debug\net8.0\oops.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding_Projects\c# programs\oops\obj\Debug\net8.0\oops.AssemblyInfoInputs.cache
+E:\Coding_Projects\c# programs\oops\obj\Debug\net8.0\oops.AssemblyInfo.cs
+E:\Coding_Projects\c# programs\oops\obj\Debug\net8.0\oops.csproj.CoreCompileInputs.cache
+E:\Coding_Projects\c# programs\oops\obj\Debug\net8.0\oops.dll
+E:\Coding_Projects\c# programs\oops\obj\Debug\net8.0\refint\oops.dll
+E:\Coding_Projects\c# programs\oops\obj\Debug\net8.0\oops.pdb
+E:\Coding_Projects\c# programs\oops\obj\Debug\net8.0\oops.genruntimeconfig.cache
+E:\Coding_Projects\c# programs\oops\obj\Debug\net8.0\ref\oops.dll
