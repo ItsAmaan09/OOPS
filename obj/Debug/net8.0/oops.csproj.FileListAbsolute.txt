@@ -12,3 +12,4 @@ E:\Coding_Projects\c# programs\oops\obj\Debug\net8.0\refint\oops.dll
 E:\Coding_Projects\c# programs\oops\obj\Debug\net8.0\oops.pdb
 E:\Coding_Projects\c# programs\oops\obj\Debug\net8.0\oops.genruntimeconfig.cache
 E:\Coding_Projects\c# programs\oops\obj\Debug\net8.0\ref\oops.dll
+E:\Coding_Projects\c# programs\oops\obj\Debug\net8.0\oops.sourcelink.json
